@@ -47,19 +47,18 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<!-- Markdown syntax used here to bypass GitHub proxy loading issues -->
 <p align="center">
   <a href="https://github.com/lovelyofficial">
-    <img src="https://github-readme-stats.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/lovelyofficial">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyofficial&layout=compact&theme=radical&langs_count=6" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lovelyofficial&layout=compact&theme=radical&langs_count=6" height="180" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lovelyofficial">
-    <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -69,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/lovelyofficial">
-    <img src="https://github-profile-trophy.vercel.app/?username=lovelyofficial&theme=onedark&no-frame=false&row=1&column=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lovelyofficial&theme=onedark&no-frame=false&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
@@ -78,7 +77,7 @@
 <h2>📈 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovelyofficial&style=for-the-badge&color=ff007f"/>
+  <img src="https://komarev.com/ghpvc/?username=lovelyofficial&style=for-the-badge&color=ff007f" alt="Visitor Count" />
 </p>
 
 ---
@@ -87,24 +86,25 @@
 
 <p>
   <a href="https://github.com/lovelyofficial" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://wa.me/YOURNUMBER" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://t.me/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@YOURCHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<!-- 🔥 FIXED PRO FOOTER 🔥 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=30,ff007f,00f0ff&height=120&section=footer&text=Lovely%20Beats&fontSize=25" width="100%" />
+  <a href="https://github.com/lovelyofficial">
+    <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer&text=Lovely%20Beats&fontSize=25" width="100%" />
+  </a>
 </p>
 
 <p align="center">
