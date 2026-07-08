@@ -49,35 +49,39 @@
 
 <p align="center">
   <a href="https://github.com/lovelyofficial">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true" height="180" />
   </a>
   <a href="https://github.com/lovelyofficial">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lovelyofficial&layout=compact&theme=radical&langs_count=6" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lovelyofficial&theme=radical&layout=compact&hide_title=false" height="180" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lovelyofficial">
-    <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical" />
   </a>
 </p>
 
 ---
 
-<h2>🏆 Achievements & Trophies</h2>
+---
+
+<h2>🏆 Achievements & Badges</h2>
 
 <p align="center">
-  <a href="https://github.com/lovelyofficial">
-    <img src="https://github-profile-trophy.vercel.app/?username=lovelyofficial&theme=onedark&no-frame=false&row=1&column=6" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Verified%20Developer-00f0ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-ff007f?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Crafter-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
+
 
 <h2>📈 Visitor Count</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lovelyofficial&style=for-the-badge&color=ff007f" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=lovelyofficial&style=for-the-badge&color=ff007f"/>
 </p>
 
 ---
@@ -101,10 +105,9 @@
 
 ---
 
+<!-- 🔥 100% SECURE & WORKING PRO FOOTER BAR 🔥 -->
 <p align="center">
-  <a href="https://github.com/lovelyofficial">
-    <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=120&section=footer&text=Lovely%20Beats&fontSize=25" width="100%" />
-  </a>
+  <img src="https://img.shields.io/badge/✨%20Lovely%20Beats%20•%20Building%20Apps%20That%20Matter%20✨-ff007f?style=for-the-badge&labelColor=0d1117" width="100%" height="45" />
 </p>
 
 <p align="center">
