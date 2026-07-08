@@ -47,17 +47,20 @@
 
 <h2>📊 GitHub Stats</h2>
 
+<!-- Markdown syntax used here to bypass GitHub proxy loading issues -->
 <p align="center">
-  <!-- GitHub Stats Card with Private Commits -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10" />
-  
-  <!-- Top Languages Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyofficial&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=6" />
+  <a href="https://github.com/lovelyofficial">
+    <img src="https://github-readme-stats.vercel.app/api?username=lovelyofficial&show_icons=true&theme=radical&count_private=true" height="180" />
+  </a>
+  <a href="https://github.com/lovelyofficial">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovelyofficial&layout=compact&theme=radical&langs_count=6" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/lovelyofficial">
+    <img src="https://streak-stats.demolab.com?user=lovelyofficial&theme=radical" />
+  </a>
 </p>
 
 ---
@@ -65,7 +68,9 @@
 <h2>🏆 Achievements & Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lovelyofficial&theme=onedark&no-frame=false&row=1&column=6&margin-w=15&margin-h=15"/>
+  <a href="https://github.com/lovelyofficial">
+    <img src="https://github-profile-trophy.vercel.app/?username=lovelyofficial&theme=onedark&no-frame=false&row=1&column=6" />
+  </a>
 </p>
 
 ---
@@ -97,12 +102,11 @@
 
 ---
 
-<!-- 🔥 PRO FOOTER START 🔥 -->
+<!-- 🔥 FIXED PRO FOOTER 🔥 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=30,ff007f,00f0ff&height=120&section=footer&text=Lovely%20Beats&fontSize=25&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=30,ff007f,00f0ff&height=120&section=footer&text=Lovely%20Beats&fontSize=25" width="100%" />
 </p>
 
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/lovelyofficial">Lovely Official</a> • Open Source Contributor</sub>
 </p>
-<!-- 🔥 PRO FOOTER END 🔥 -->
