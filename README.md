@@ -70,7 +70,7 @@
 <h2>🏆 Achievements & Trophies</h2>
 
 <div align="center">
-  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/yolo.svg" width="75" alt="YOLO" />
+  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="75" alt="YOLO" />
   <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/pull-shark.svg" width="75" alt="Pull Shark" />
   <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/quick-draw.svg" width="75" alt="Quick Draw" />
   <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/pair-extraordinaire.svg" width="75" alt="Pair Extraordinaire" />
