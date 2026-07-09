@@ -71,10 +71,10 @@
 
 <div align="center">
   <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="75" alt="YOLO" />
-  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/pull-shark.svg" width="75" alt="Pull Shark" />
-  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/quick-draw.svg" width="75" alt="Quick Draw" />
-  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/pair-extraordinaire.svg" width="75" alt="Pair Extraordinaire" />
-  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/assets/public-sponsor.svg" width="75" alt="Public Sponsor" />
+  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="75" alt="Pull Shark" />
+  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="75" alt="Quick Draw" />
+  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire_Gold.png" width="75" alt="Pair Extraordinaire" />
+  <img src="https://github.com/fenrir2608/badgeMaster/blob/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="75" alt="Public Sponsor" />
 </div>
 
 ---
@@ -93,13 +93,13 @@
   <a href="https://github.com/lovelyofficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" height="30" />
   </a>
-  <a href="https://wa.me/YOURNUMBER" target="_blank">
+  <a href="https://wa.me/94764642432" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" />
   </a>
-  <a href="https://t.me/YOURUSERNAME" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
   </a>
-  <a href="https://youtube.com/@YOURCHANNEL" target="_blank">
+  <a href="https://youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="30" />
   </a>
 </div>
